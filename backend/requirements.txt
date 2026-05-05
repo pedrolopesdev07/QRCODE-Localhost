@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+supabase
+python-dotenv
+qrcode[pil]
+jinja2
+gunicorn
+python-multipart
